@@ -1,0 +1,4 @@
+Contact: mailto:security@omicare.tech
+Preferred-Languages: es, en
+Canonical: https://omicare.tech/.well-known/security.txt
+Policy: https://omicare.tech/legal/responsible-disclosure
